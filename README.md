@@ -19,3 +19,12 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+You can use this project without notifying me be forking this project but on these conditions:-
++ Give Credits to me on your main page of your app or your website like this
+```
+This app was made by Saksham Sud on github
+```
++ Put a link to my github next to the credits
+
+## The credits and the link should be visible clearly and should on the main page.
