@@ -24,6 +24,11 @@ quasar dev
 quasar build
 ```
 
+### Build the app with Electron
+```bash
+quasar build -m electron
+```
+
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
