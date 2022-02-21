@@ -27,4 +27,6 @@ This app was made by Saksham Sud on github
 ```
 + Put a link to my github next to the credits
 
+### MIT License
+
 ## The credits and the link should be visible clearly and should on the main page.
