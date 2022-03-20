@@ -32,7 +32,7 @@ quasar build -m electron
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
-You can use this project without notifying me be forking this project but on these conditions:-
+You can use this project without notifying me by forking this project but on these conditions:-
 + Give Credits to me on your main page of your app or your website like this
 ```
 This app was made by Saksham Sud on github
